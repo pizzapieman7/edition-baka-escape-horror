@@ -4,7 +4,9 @@
     "dependencies": {
         "device": "*",
         "pxt-raycasting": "github:neintoes/pxt-raycasting#6f3bd81686da0cc654fb0cff7c5c2bf8528480c3",
-        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.1.2",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
     },
     "files": [
         "main.blocks",
